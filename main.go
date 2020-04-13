@@ -18,6 +18,7 @@ return "you got", MilesperGallon,"Miles per gallon!"
 
 
 func main() {
+  //declare variable for a and b as int
   var a int
   var b int
 //ask user for miles driven and gallons used
